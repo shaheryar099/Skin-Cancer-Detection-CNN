@@ -1,5 +1,7 @@
 streamlit
-tensorflow-cpu
+tensorflow==2.15.0
 numpy
-Pillow
+pillow
+matplotlib
 scikit-learn
+h5py
