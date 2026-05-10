@@ -1,7 +1,8 @@
-streamlit==1.32.0
-tensorflow==2.15.0
-numpy
+streamlit
+tensorflow-cpu==2.15.0
+numpy==1.26.4
 pillow
 matplotlib
 scikit-learn
 h5py
+protobuf==3.20.3
